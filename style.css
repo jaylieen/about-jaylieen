@@ -1,0 +1,22 @@
+h1{ 
+display: flex;
+jusitfy-context:center;
+}
+Body{
+  background-color:azure;
+}
+h3{
+  color:blue;
+}
+h1{
+  color:red;
+  font-style:italic;
+}
+#me{
+  display:flex;
+  justify-content:center;
+}
+#likes,#dislikes{
+  width:50%; 
+  padding:30px;
+}
